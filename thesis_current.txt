@@ -22,7 +22,7 @@ Ziel ist es die Möglichkeiten des Computers mit der intuitiven und direkten Ste
 
 ## Gestures
 **What is an intuitive gesture? define!**
-An intuitive gestures must resemble the same or similar action in real life (e.g. Turning a page in a book and looking at the same picture) and in the controlled interface. If the action can not be performed in real life (e.g. pinch-to-zoom) it has to be learned and can therefore not be defined as intuitive. (7)
+An intuitive gestures must resemble the same or similar action in real life (e.g. Turning a page in a book and looking at the same picture) and in the controlled interface. If the action can not be performed in real life (e.g. pinch-to-zoom) it has to be learned and can therefore not be defined as intuitive. (7) Additionally the preference for gestures that do not resemble actions once would do in real life are highly individualized (10) which additionally contradicts the idea and goal to create intuitive gestures due to its unlikely success.
 
 **Characteristics of a rememberable gesture**
 Designing real intuitive gestures is nearly impossible, so I will discuss the next approach, tried my most companies manufacturing touch screen devices: *to design rememberable and usable gestures.*
@@ -32,7 +32,7 @@ Another important factor, why for e.g. Apples gestures are so successful is that
 
 Similar gestures should have similar results, so that the user is able to remember in clusters (**cluster reference**). (e.g. 1 finger swipe goes to next picture, 2-finger swipe goes to next gallery). Additionally opposite actions can use the exact opposite of a command like on Apple OS X where swipe up with 4 fingers shows all open windows while the swipe down with 4 fingers shows only the current application in focus.
 
-As presented in the Magical number seven plus or minus two people have a hard time to remember many different items in combination with one specific topic if they do not use advanced memory techniques like chunks. Because one can not expect users to use these techniques, the number of gestures essential for controlling an interface should not venture to far away from this number. The current version of Apple's OS facilitates 9 gesture clusters (7 single gestures and 2 clusters of 2 opposite gestures).
+As presented in the Magical number seven plus or minus two people have a hard time to remember many different items in combination with one specific topic if they do not use advanced memory techniques like chunks. Because one cannot expect users to use these techniques, the number of gestures essential for controlling an interface should not venture to far away from this number. The current version of Apple's OS facilitates 9 gesture clusters (7 single gestures and 2 clusters of 2 opposite gestures).
 
 
  - Studies of gestures?
@@ -124,3 +124,7 @@ Glasgow, G12 8QQ
 (9) G. A. Miller. The Magical Number Seven, Plus or
 Minus Two: Some Limits on Our Capacity for
 Processing Information. The Psychological Review, 1956. Online, www.musanim.com/miller1956.
+
+(10) Optimal Consensus Intuitive Hand Gesture Vocabulary Design - Helman I Stern1, Juan P. Wachs2, and Yael Edan1
+1Depart. of Industrial Engineering and Management, Ben-Gurion University of the Negev, Beersheva, Israel, {helman, yael}@bgu.ac.il
+2Depart. of Computer Science, Naval Postgraduate School, Monterey, CA, jpwachs@nps.edu
