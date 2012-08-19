@@ -34,7 +34,12 @@ Similar gestures should have similar results, so that the user is able to rememb
 
 As presented in the Magical number seven plus or minus two people have a hard time to remember many different items in combination with one specific topic if they do not use advanced memory techniques like chunks. Because one cannot expect users to use these techniques, the number of gestures essential for controlling an interface should not venture to far away from this number. The current version of Apple's OS facilitates 9 gesture clusters (7 single gestures and 2 clusters of 2 opposite gestures).
 
-Additional research can provide an idea of common preferences for a specific group of people, though many factors like ethnic heritage, technological knowledge, personal preferences, left- or right-handed and many more will effect those preferences. **reference for this?**
+Additional research can provide an idea of common preferences for a specific group of people, though many factors like ethnic heritage, age, technological knowledge, personal preferences, left- or right-handed and many more will effect those preferences. **reference for this?**
+
+The recognition accuracy by machines (11) has to be considered as well, due to its import ants to the user experience. Even intuitive gestures cannot create a good experience if they are not easily recognised. The accuracy of the machine understanding the users command has to be near perfect, so that the gestural interaction does not add an extra layer of complexity but rather reduces the amount of time and thought the user has to spend on controlling a device.
+
+**FIND**
+Stern, H. I., Wachs, J. P., & Edan, Y. (2006). Optimal hand gesture vocabulary design using psycho- physiological and technical factors. Proceedings of the Seventh International Conference on Automatic Face and Gesture Recognition (pp. 257-262).
 
 
  - Studies of gestures?
@@ -130,3 +135,5 @@ Processing Information. The Psychological Review, 1956. Online, www.musanim.com/
 (10) Optimal Consensus Intuitive Hand Gesture Vocabulary Design - Helman I Stern1, Juan P. Wachs2, and Yael Edan1
 1Depart. of Industrial Engineering and Management, Ben-Gurion University of the Negev, Beersheva, Israel, {helman, yael}@bgu.ac.il
 2Depart. of Computer Science, Naval Postgraduate School, Monterey, CA, jpwachs@nps.edu
+
+(11) Wachs, J. P., Stern, H., & Edan, Y. (2005). Cluster labeling and parameter estimation for automated set up of a hand gesture recognition system. IEEE Transactions on Systems, Man and Cybernetics, Part A, 35(6), 932-944.
