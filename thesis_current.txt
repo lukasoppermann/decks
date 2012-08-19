@@ -44,9 +44,12 @@ Additional research can provide an idea of common preferences for a specific gro
 
 The recognition accuracy by machines (11) has to be considered as well, due to its import ants to the user experience. Even intuitive gestures cannot create a good experience if they are not easily recognised. The accuracy of the machine understanding the users command has to be near perfect, so that the gestural interaction does not add an extra layer of complexity but rather reduces the amount of time and thought the user has to spend on controlling a device.
 
+Gestures can be more tiresome (in contrast to using an input device such as a mouse), due to the movement and postures required. To reduce this as much as possible care must be taken to select gestures that avoid muscle strain and fatigue. (12) If such gestures must be used, the user should not be required to hold the gestures for an extended amount of time.
+
 **FIND**
 > Stern, H. I., Wachs, J. P., & Edan, Y. (2006). Optimal hand gesture vocabulary design using psycho- physiological and technical factors. Proceedings of the Seventh International Conference on Automatic Face and Gesture Recognition (pp. 257-262).
 
+> Kjeldsen, R., & Hartman J. (2001). Design issues for vision-based computer interaction systems. Proceedings of the Workshop on Perceptual User Interfaces, Orlando, Florida.
 
 > *Gestures are similar* Aboudan, R., & Beattie, G. (1996). Cross-cultural similarities in gestures: The deep relationship between gestures and speech which transcends language barriers. Semiotica, no. 111, 269-294.
 
@@ -157,3 +160,5 @@ Processing Information. The Psychological Review, 1956. Online, www.musanim.com/
 2Depart. of Computer Science, Naval Postgraduate School, Monterey, CA, jpwachs@nps.edu
 
 (11) Wachs, J. P., Stern, H., & Edan, Y. (2005). Cluster labeling and parameter estimation for automated set up of a hand gesture recognition system. IEEE Transactions on Systems, Man and Cybernetics, Part A, 35(6), 932-944.
+
+(12) Wachs, J. P. (2007). Ph.D. Thesis, Department of Industrial Engineering and Management, Ben-Gurion University of the Negev, Beersheva, Israel.
