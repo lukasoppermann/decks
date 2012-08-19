@@ -80,7 +80,16 @@ Cars, Interact 2011, page 5, September 5th 2011.
 → My thought: One gesture has to do the same everywhere 
 → Apart from a few number of key gestures everything else should be accessible via UI (Pie Menues / half Pie Menus)
 
-## 
+## GUI
+- what gui elements work well with gesture operated touch screens?
+- what gui elements do not work well with touch?
+- what problems do touch gestures bring for the gui? (e.g. size of elements, hiding elements, ..)
+
+## System structure
+- which problems arise from common system structures when operated by touch screen devices? Solutions?
+- which problems have systems due to their structure today?
+- which solutions do user have?
+- which solutions could be used for this problems? (Examples? Apple, Google)
 
 ## Touchscreen
 ### what advantages do touchscreens have. 
