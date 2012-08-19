@@ -6,7 +6,7 @@
 
 # Problemstellung
 
-> Can the complexity of an everyday used files system be reduced and adapted to be used on a touchscreen without compromising the functionality and the user experience?
+> Can the complexity of an everyday used files system be reduced and adapted to be used on a touchscreen without compromising the functionality and the user experience? Special attention shall be payed to the interface & workflow (system concept) which should be changed to account for gestural control.
 
 Computer führt oft zu komplizierten Arbeitsabläufen und schafft Umwege durch Controller wie die Maus.
 Der Computer hat viel neues Gebracht, aber viele gute Möglichkeiten der vorherigen Arbeitsweisen verdrängt.
@@ -21,12 +21,18 @@ Ziel ist es die Möglichkeiten des Computers mit der intuitiven und direkten Ste
 # Literaturrecherche & Projekte
 
 ## Gestures
+**What is a gesture?**
+A gesture can be a static postures or a dynamic movement. (10)   
+
 **What is an intuitive gesture? define!**
 An intuitive gestures must resemble the same or similar action in real life (e.g. Turning a page in a book and looking at the same picture) and in the controlled interface. If the action can not be performed in real life (e.g. pinch-to-zoom) it has to be learned and can therefore not be defined as intuitive. (7) Additionally the preference for gestures that do not resemble actions once would do in real life are highly individualized (10) which additionally contradicts the idea and goal to create intuitive gestures due to its unlikely success.
 
 **Characteristics of a rememberable gesture**
 Designing real intuitive gestures is nearly impossible, so I will discuss the next approach, tried by most companies manufacturing touch screen devices: *to design rememberable and usable gestures.*
 If a gesture is differs enough from all others it is easier to remember than if the gestures are very similar. A gesture should have a uniqueness. The same idea of a gesture (like a swipe) should not be used in more than a couple gestures (e.g. 1 finger swipe, 2-finger swipe, 3-finger swipe) because this makes it harder to remember which action produces a specific result.
+
+**FIND**
+Cohen, C. (1999). A brief overview of gesture recognition. http://www.dai.ed.ac.uk/CVonline/local_copies/cohen/ges ture_overview.html
 
 Another important factor, why for e.g. Apples gestures are so successful is that gestures have to feel right and be supporter by animations. Closing in application on the iPad can be done by placing 5 fingers spread out on the screen and pulling them together not unlike crumpling a piece of paper. The applications is minimised by scaling down to a size of 0. This supports the idea that you "crumple" the app, making the gesture feel right and helping to remember it, because you just remember to "crumple an app" to close.
 
@@ -39,8 +45,12 @@ Additional research can provide an idea of common preferences for a specific gro
 The recognition accuracy by machines (11) has to be considered as well, due to its import ants to the user experience. Even intuitive gestures cannot create a good experience if they are not easily recognised. The accuracy of the machine understanding the users command has to be near perfect, so that the gestural interaction does not add an extra layer of complexity but rather reduces the amount of time and thought the user has to spend on controlling a device.
 
 **FIND**
-Stern, H. I., Wachs, J. P., & Edan, Y. (2006). Optimal hand gesture vocabulary design using psycho- physiological and technical factors. Proceedings of the Seventh International Conference on Automatic Face and Gesture Recognition (pp. 257-262).
+> Stern, H. I., Wachs, J. P., & Edan, Y. (2006). Optimal hand gesture vocabulary design using psycho- physiological and technical factors. Proceedings of the Seventh International Conference on Automatic Face and Gesture Recognition (pp. 257-262).
 
+
+> *Gestures are similar* Aboudan, R., & Beattie, G. (1996). Cross-cultural similarities in gestures: The deep relationship between gestures and speech which transcends language barriers. Semiotica, no. 111, 269-294.
+
+> *Gestures are individual* Archer, D. (1997). Unspoken diversity: cultural differences in gestures. Special Issue on Visual Sociology, Qualitative Sociology, 1, 3-137.
 
  - Studies of gestures?
 - Apple Touch Gestures (as an example for gestures)
@@ -70,6 +80,7 @@ Cars, Interact 2011, page 5, September 5th 2011.
 → My thought: One gesture has to do the same everywhere 
 → Apart from a few number of key gestures everything else should be accessible via UI (Pie Menues / half Pie Menus)
 
+## 
 
 ## Touchscreen
 ### what advantages do touchscreens have. 
@@ -84,7 +95,7 @@ Cars, Interact 2011, page 5, September 5th 2011.
 ### problems of touch screens? solutions?
 > On the negative side, multi-touch systems complicate the occlusion problem, as several fingers, hands or devices are clouding even more parts of the touch screen than on singletouch devices. This can, however, be eased by using clever interface design approaches, as Wu and Balakrishnan confirmed (2). Another basic issue is the fat finger problem which requires designers to use interaction elements of a certain minimum size, in order to be precisely touchable by human fingers. (Which can be solved by having an invisible touchable overlay to the visual element, the so called ice berg tips (3))
 
-> The surface of a multi-touch systems must always be in sight to get discernable display information (4). However, this is on some occasions hardly possible, like driving a car or operating a device within a pocket. It also restricts simple touch screens from being a beneficial device for visually impaired users (6). In some fields, a touch screen is mostly exposed to sunlight as with notebooks or mobile phones and visibility can be heavily a affected as well.
+> The surface of a multi-touch systems must always be in sight to get discernable display information (4). However, this is on some occasions hardly possible, like driving a car or operating a device within a pocket. It also restricts simple touch screens from being a beneficial device for visually impaired users (6). In some fields, a touch screen is mostly exposed to sunlight as with notebooks or mobile phones and visibility can be heavily a affected as well. Additionally hands cover part of the screen and thus potentially cover the interface. This must be considered and prevented as good as possible. (3)
 
 > Feedback is not felt, but can only be given by sound or a visual effect on screen. Sound can be muted and a visual effect can be easily overlook, thus resulting in an insecurity of the user about wether or not an action has taken effect. A solution can be a tactile feedback using a touchscreen such as developed by tactus. (5)
 
