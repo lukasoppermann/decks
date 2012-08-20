@@ -39,7 +39,7 @@ Gestures should be designed to full fill the following four criteria (13).
 
 The main principles in ergonomics include (13): (*original sources in 13, needed?*)- Avoid outer positions- Relax muscles- Relaxed neutral position is in the middle between outer positions- Avoid repetition- Avoid staying in static position- Avoid internal and external force on joints that may stop body fluids
 
-### Procedure for defining gestures (13)
+### Process for defining gestures (13)
 1. Find the functions the interface has to have
 2. Collect Gestures from User Domain (video testing)
 3. Extract Gesture Vocabulary
