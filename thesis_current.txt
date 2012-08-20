@@ -23,6 +23,7 @@ Ziel ist es die Möglichkeiten des Computers mit der intuitiven und direkten Ste
 ## Gestures
 **What is a gesture?**
 A gesture can be a static postures or a dynamic movement. (10)   
+A set of gestures designed for an interface is called "gestural vocabulary". (13)
 
 **What is an intuitive gesture? define!**
 An intuitive gestures must resemble the same or similar action in real life (e.g. Turning a page in a book and looking at the same picture) and in the controlled interface. If the action can not be performed in real life (e.g. pinch-to-zoom) it has to be learned and can therefore not be defined as intuitive. (7) Additionally the preference for gestures that do not resemble actions once would do in real life are highly individualized (10) which additionally contradicts the idea and goal to create intuitive gestures due to its unlikely success.
@@ -45,6 +46,8 @@ Additional research can provide an idea of common preferences for a specific gro
 The recognition accuracy by machines (11) has to be considered as well, due to its import ants to the user experience. Even intuitive gestures cannot create a good experience if they are not easily recognised. The accuracy of the machine understanding the users command has to be near perfect, so that the gestural interaction does not add an extra layer of complexity but rather reduces the amount of time and thought the user has to spend on controlling a device.
 
 Gestures can be more tiresome (in contrast to using an input device such as a mouse), due to the movement and postures required. To reduce this as much as possible care must be taken to select gestures that avoid muscle strain and fatigue. (12) If such gestures must be used, the user should not be required to hold the gestures for an extended amount of time.
+
+Fingers are less precise instruments than a mouse or pen is, leading to a greater chance of error or inadvertently touching/activating sth. this should be considered and the interface should be adjusted to wait for conformation (longer touch). Additionally the system should be forgiving meaning that errors are reversible (for e.g. deleted files can easily be restored, etc.).
 
 **FIND**
 > Stern, H. I., Wachs, J. P., & Edan, Y. (2006). Optimal hand gesture vocabulary design using psycho- physiological and technical factors. Proceedings of the Seventh International Conference on Automatic Face and Gesture Recognition (pp. 257-262).
@@ -121,6 +124,14 @@ Cars, Interact 2011, page 5, September 5th 2011.
 
 → go more towards collaboration? And modern ideas of company hirachie? 
 
+## Other Research
+*usability engineering follows nine heuristics* (14)
+1. Use simple and natural dialogue
+2. Speak the user’s language3. Minimize user memory load4. Be consistent5. Provide feedback6. Provide clearly marked exits
+7. Provide shortcuts8. Provide good error messages
+9. Prevent errors
+
+
 =========================
 # Die Evolution des Arbeitsplatzes
 =========================
@@ -164,3 +175,5 @@ Processing Information. The Psychological Review, 1956. Online, www.musanim.com/
 (12) Wachs, J. P. (2007). Ph.D. Thesis, Department of Industrial Engineering and Management, Ben-Gurion University of the Negev, Beersheva, Israel.
 
 (13) A procedure for developing intuitive and ergonomic gesture interfaces for HCI. Michael Nielsen, Moritz Störring, Thomas B. Moeslund, and Erik Granum{mnielsen, mst, tbm, eg}@cvmt.dkAalborg University, Laboratory of Computer Vision and Media Technology, Niels Jernes Vej 14, DK-9220 Aalborg, Denmark
+
+(14) Jakob Nielsen, “The Usability Engineering Life Cycle”, IEEE, 1992
