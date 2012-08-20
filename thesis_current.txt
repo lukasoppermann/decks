@@ -162,3 +162,5 @@ Processing Information. The Psychological Review, 1956. Online, www.musanim.com/
 (11) Wachs, J. P., Stern, H., & Edan, Y. (2005). Cluster labeling and parameter estimation for automated set up of a hand gesture recognition system. IEEE Transactions on Systems, Man and Cybernetics, Part A, 35(6), 932-944.
 
 (12) Wachs, J. P. (2007). Ph.D. Thesis, Department of Industrial Engineering and Management, Ben-Gurion University of the Negev, Beersheva, Israel.
+
+(13) A procedure for developing intuitive and ergonomic gesture interfaces for HCI. Michael Nielsen, Moritz Störring, Thomas B. Moeslund, and Erik Granum{mnielsen, mst, tbm, eg}@cvmt.dkAalborg University, Laboratory of Computer Vision and Media Technology, Niels Jernes Vej 14, DK-9220 Aalborg, Denmark
