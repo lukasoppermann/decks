@@ -32,6 +32,19 @@ An intuitive gestures must resemble the same or similar action in real life (e.g
 Designing real intuitive gestures is nearly impossible, so I will discuss the next approach, tried by most companies manufacturing touch screen devices: *to design rememberable and usable gestures.*
 If a gesture is differs enough from all others it is easier to remember than if the gestures are very similar. A gesture should have a uniqueness. The same idea of a gesture (like a swipe) should not be used in more than a couple gestures (e.g. 1 finger swipe, 2-finger swipe, 3-finger swipe) because this makes it harder to remember which action produces a specific result.
 
+Gestures should be designed to full fill the following four criteria (13).
+- Easy to perform and remember 
+- Metaphorically and iconically logical towards functionality- Ergonomic; not physically stressing when used often
+- Possible for the system to recognise unambiguously
+
+The main principles in ergonomics include (13): (*original sources in 13, needed?*)- Avoid outer positions- Relax muscles- Relaxed neutral position is in the middle between outer positions- Avoid repetition- Avoid staying in static position- Avoid internal and external force on joints that may stop body fluids
+
+### Procedure for defining gestures (13)
+1. Find the functions the interface has to have
+2. Collect Gestures from User Domain (video testing)
+3. Extract Gesture Vocabulary
+4. (Benchmark chosen gestures - not doing this)
+
 **FIND**
 Cohen, C. (1999). A brief overview of gesture recognition. http://www.dai.ed.ac.uk/CVonline/local_copies/cohen/ges ture_overview.html
 
