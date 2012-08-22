@@ -34,10 +34,17 @@ If a gesture is differs enough from all others it is easier to remember than if 
 
 Gestures should be designed to full fill the following four criteria (13).
 - Easy to perform and remember 
-- Metaphorically and iconically logical towards functionality- Ergonomic; not physically stressing when used often
+- Metaphorically and iconically logical towards functionality
+- Ergonomic; not physically stressing when used often
 - Possible for the system to recognise unambiguously
 
-The main principles in ergonomics include (13): (*original sources in 13, needed?*)- Avoid outer positions- Relax muscles- Relaxed neutral position is in the middle between outer positions- Avoid repetition- Avoid staying in static position- Avoid internal and external force on joints that may stop body fluids
+The main principles in ergonomics include (13): (*original sources in 13, needed?*)
+- Avoid outer positions
+- Relax muscles
+- Relaxed neutral position is in the middle between outer positions
+- Avoid repetition
+- Avoid staying in static position
+- Avoid internal and external force on joints that may stop body fluids
 
 ### Process for defining gestures (13)
 1. Find the functions the interface has to have
@@ -127,7 +134,9 @@ Cars, Interact 2011, page 5, September 5th 2011.
 
 > Feedback is not felt, but can only be given by sound or a visual effect on screen. Sound can be muted and a visual effect can be easily overlook, thus resulting in an insecurity of the user about wether or not an action has taken effect. A solution can be a tactile feedback using a touchscreen such as developed by tactus. (5)
 
-> What is more, some actions like scribbling notes or making finer drawings can not be reasonably performed with fingers and on small screens (4). You need a device of a certain size or one that explicitly can handle appropriate input tools such as a stylus additionally to the usual hand and finger recognition. (This can be solved by pens similar to drawing tables as are sold for the iPad *find source*)
+> Additionally a team at Stanford developed a Solution for creating a keyboard for blind people on-the-go. By just placing your outstretched hands on the screen it registers the positions and creates the touchable areas. (15) 
+
+> What is more, some actions like scribbling notes or making finer drawings cannot be reasonably performed with fingers and on small screens (4). You need a device of a certain size or one that explicitly can handle appropriate input tools such as a stylus additionally to the usual hand and finger recognition. (This can be solved by pens similar to drawing tables as are sold for the iPad *find source*)
 
 > Also, even though touch screens can adapt very closely to a vast number of application purposes, they will only ever be a virtual representation of the original situation and lack certain features such as a plastic shape. This can make a significant difference in the handling of the interface, as can be seen when trying to rapidly handle a virtual keyboard in contrast to the real thing. (1) (This problem is being address by multiple companies like Tactus (5) by creating programmatically transformable touch surfaces)
 
@@ -140,8 +149,13 @@ Cars, Interact 2011, page 5, September 5th 2011.
 ## Other Research
 *usability engineering follows nine heuristics* (14)
 1. Use simple and natural dialogue
-2. Speak the user’s language3. Minimize user memory load4. Be consistent5. Provide feedback6. Provide clearly marked exits
-7. Provide shortcuts8. Provide good error messages
+2. Speak the user’s language
+3. Minimize user memory load
+4. Be consistent
+5. Provide feedback
+6. Provide clearly marked exits
+7. Provide shortcuts
+8. Provide good error messages
 9. Prevent errors
 
 
@@ -187,6 +201,10 @@ Processing Information. The Psychological Review, 1956. Online, www.musanim.com/
 
 (12) Wachs, J. P. (2007). Ph.D. Thesis, Department of Industrial Engineering and Management, Ben-Gurion University of the Negev, Beersheva, Israel.
 
-(13) A procedure for developing intuitive and ergonomic gesture interfaces for HCI. Michael Nielsen, Moritz Störring, Thomas B. Moeslund, and Erik Granum{mnielsen, mst, tbm, eg}@cvmt.dkAalborg University, Laboratory of Computer Vision and Media Technology, Niels Jernes Vej 14, DK-9220 Aalborg, Denmark
+(13) A procedure for developing intuitive and ergonomic gesture interfaces for HCI. Michael Nielsen, Moritz Störring, Thomas B. Moeslund, and Erik Granum
+{mnielsen, mst, tbm, eg}@cvmt.dk
+Aalborg University, Laboratory of Computer Vision and Media Technology, Niels Jernes Vej 14, DK-9220 Aalborg, Denmark
 
 (14) Jakob Nielsen, “The Usability Engineering Life Cycle”, IEEE, 1992
+
+(15) Laboratory Equipment - A Touchscreen for the Blind. Stanford
