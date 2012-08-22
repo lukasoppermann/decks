@@ -89,10 +89,6 @@ Fingers are less precise instruments than a mouse or pen is, leading to a greate
 
 > Kjeldsen, R., & Hartman J. (2001). Design issues for vision-based computer interaction systems. Proceedings of the Workshop on Perceptual User Interfaces, Orlando, Florida.
 
-> *Gestures are similar* Aboudan, R., & Beattie, G. (1996). Cross-cultural similarities in gestures: The deep relationship between gestures and speech which transcends language barriers. Semiotica, no. 111, 269-294.
-
-> *Gestures are individual* Archer, D. (1997). Unspoken diversity: cultural differences in gestures. Special Issue on Visual Sociology, Qualitative Sociology, 1, 3-137.
-
  - Studies of gestures?
 - Apple Touch Gestures (as an example for gestures)
 - Apple, google & Microsoft Patents for interactions 
@@ -146,8 +142,17 @@ There are 10 Characteristics suggested by (3) to consider when designing gestura
 **Undo**
 
 - what gui elements work well with gesture operated touch screens?
-- what gui elements do not work well with touch?
-- what problems do touch gestures bring for the gui? (e.g. size of elements, hiding elements, ..)
+### what gui elements do not work well with touch?
+- 
+
+
+### what problems do touch gestures bring for the gui?
+- screen coverage (3): the screen will be partly covered by the users hand, thus hiding elements. This needs to be considered, so that for e.g. labels are not place below buttons/control elements. Most menus and control elements should be placed at the bottom of the interface like on the Apple touch devices.
+- (3): Touch targets need to be huge in comparison to the desktop. They should at least be as big as the smalls average finger pad, 1cm. 2 Techniques can be used to stick to this guideline and not compromise the interface. 
+		1. iceberg tips: if enough whitespace is available around buttons, the clickable area (touch target) can be very much bigger than the visual button.
+		2. adaptive (iceberg) targets: The device guesses the users next action and increases the size of the elements he will most likely click. For e.g. hen typing after typing a "Q", the target for "Q" can be very small, while the target for "U" needs to be increased. 
+		3. (me): Adaptive controls: by only showing the elements for possible actions the space can be used for bigger controls without making visible elements not clickable. This only works with certain scenarios. Another advantage is that it reduces the distraction.
+
 
 ## System structure
 - which problems arise from common system structures when operated by touch screen devices? Solutions?
@@ -199,16 +204,30 @@ There are 10 Characteristics suggested by (3) to consider when designing gestura
 
 =========================
 # Die Evolution des Arbeitsplatzes
+
+
 =========================
 # Konzept
 - Interaktion & Design
+
+
 =========================
+
 # Diskussion
-- Blinde Nutzer
-- Kulturelle & Persönliche Unterschiede (understanding gestures)
+- **Blinde Nutzer**
+> (15) Laboratory Equipment - A Touchscreen for the Blind. Stanford
+
+- **Kulturelle & Persönliche Unterschiede (understanding gestures)**
+> *Gestures are similar* Aboudan, R., & Beattie, G. (1996). Cross-cultural similarities in gestures: The deep relationship between gestures and speech which transcends language barriers. Semiotica, no. 111, 269-294.
+
+> *Gestures are individual* Archer, D. (1997). Unspoken diversity: cultural differences in gestures. Special Issue on Visual Sociology, Qualitative Sociology, 1, 3-137.
+
 =========================
 # Fazit & Ausblick
 
+
+
+=========================
 # Literature list
 (1) A Short Report on Multi-Touch User Interfaces Patrick Lindemann Department Media Informatics, University of Munich Amalienstrasse 17 Munich, Germany patrick.lindemann@campus.lmu.de
 
