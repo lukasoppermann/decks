@@ -107,6 +107,19 @@ Cars, Interact 2011, page 5, September 5th 2011.
 → Apart from a few number of key gestures everything else should be accessible via UI (Pie Menues / half Pie Menus)
 
 ## GUI
+### Characteristics of good gestural interfaces
+There are 10 Characteristics suggested by (3) to consider when designing gestural interfaces.
+**Discoverable**
+**Trustworthy**
+**Responsive**
+**Appropriate**
+**Meaningful**
+**Smart**
+**Clever**
+**Playful**
+**Pleasurable**
+**Good**
+
 - what gui elements work well with gesture operated touch screens?
 - what gui elements do not work well with touch?
 - what problems do touch gestures bring for the gui? (e.g. size of elements, hiding elements, ..)
