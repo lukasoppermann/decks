@@ -25,6 +25,19 @@ Ziel ist es die Möglichkeiten des Computers mit der intuitiven und direkten Ste
 A gesture can be a static postures or a dynamic movement. (10)   
 A set of gestures designed for an interface is called "gestural vocabulary". (13)
 
+**Attributes of gestures (3)**
+- Presence
+- Duration
+- Position
+- Motion
+- Pressure
+- Size
+- Orientation
+- Including objects
+- Number of touch points/combinations
+- Sequence
+- Number of participants
+
 **What is an intuitive gesture? define!**
 An intuitive gestures must resemble the same or similar action in real life (e.g. Turning a page in a book and looking at the same picture) and in the controlled interface. If the action can not be performed in real life (e.g. pinch-to-zoom) it has to be learned and can therefore not be defined as intuitive. (7) Additionally the preference for gestures that do not resemble actions once would do in real life are highly individualized (10) which additionally contradicts the idea and goal to create intuitive gestures due to its unlikely success.
 
@@ -45,6 +58,8 @@ The main principles in ergonomics include (13): (*original sources in 13, needed
 - Avoid repetition
 - Avoid staying in static position
 - Avoid internal and external force on joints that may stop body fluids
+
+### Attributes for gestures (3)
 
 ### Process for defining gestures (13)
 1. Find the functions the interface has to have
@@ -119,6 +134,16 @@ There are 10 Characteristics suggested by (3) to consider when designing gestura
 **Playful**
 **Pleasurable**
 **Good**
+
+### Interface Conventions (3)
+**Cursor**
+**Hovers and mouse-over events**
+**Double-click**
+**Right-click**
+**Drop-down menus**
+**Cut-and-paste**
+**Selected default buttons**
+**Undo**
 
 - what gui elements work well with gesture operated touch screens?
 - what gui elements do not work well with touch?
