@@ -141,7 +141,8 @@ There are 10 Characteristics suggested by (3) to consider when designing gestura
 **Selected default buttons**
 **Undo**
 
-- what gui elements work well with gesture operated touch screens?
+### what gui elements work well with gesture operated touch screens?
+
 ### what gui elements do not work well with touch?
 - 
 
