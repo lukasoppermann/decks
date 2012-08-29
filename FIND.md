@@ -9,3 +9,5 @@ Wellner, P.: The DigitalDesk Calculator: Tangible Manipulation on a Desk Top Dis
 Bender, G.T. (1999). Touch screen performance as a function of the duration of auditory feedback and target size. Unpublished doctoral dissertation, Wichita State University.
 
 SENSEG Haptic touch screen
+
+OpenMeta Ironic Software
