@@ -1,4 +1,5 @@
 Backup*.*
 !*.gz
+!*.ai
 QuickLook/
 Images & Illustrations/
