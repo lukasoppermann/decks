@@ -1,6 +1,8 @@
 # Gestures for the following actions
 
-- activate (touch)
-- open menu (2-finger touch)
-- undo (everything)
+- activate (tap)
+- open context-menu (tap & hold)
+- undo everything
 - new file
+- zip files
+- delete files
