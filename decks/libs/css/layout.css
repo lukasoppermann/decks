@@ -41,12 +41,15 @@ html{
 	top: 0;
 	right: 0;
 	z-index: 1;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	user-select: none;
 }
 .top-right .time, .top-right .date {
 		color: rgb(255,255,255);
 		font-family: "Helvetica Neue Ultra Light";
 		font-size: 30px;
-		line-height: 100%;
+		line-height: 110%;
 		opacity: 0;
 		margin-right: -40px;
 }

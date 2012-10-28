@@ -1,5 +1,9 @@
 // define global cache
 var gCache = {};
+// disable scroll
+document.ontouchstart = function(e){ 
+    e.preventDefault(); 
+}
 // when document ready
 $(function(){
 	// init time and date
@@ -17,5 +21,5 @@ $(function(){
 	});
 	// drag start
 	$('[draggable=true]').draggable();
-
+	
 });
