@@ -1,0 +1,77 @@
+/*-------------*/
+/* Color legend 
+// -------------
+BG Orange
+rgb(230,200,165)
+BG green
+rgb(225,220,180)
+BG blue
+rgb(205,220,215)
+*/
+/*-------------*/
+/* Fonts */
+@font-face{ font-family: "Helvetica Neue Ultra Light"; src: url("../fonts/helvetica-neue/HelveticaNeueLTStd-UltLt.otf"); }
+/*-------------*/
+/* Background */
+html{
+	height: 100%;
+	background-color: rgb(230,200,165);
+	background-image: -moz-linear-gradient(top left, rgb(230,200,165), rgb(225,220,180));
+	background-image: -webkit-linear-gradient(top left, rgb(230,200,165), rgb(225,220,180));
+	overflow: hidden;
+}
+.background{
+	display: block;
+	height: 100%;
+	background-color: transparent;
+	background-image: -moz-linear-gradient(top right, rgba(205,220,215,1), rgba(205,220,215,0) 40%);
+	background-image: -webkit-linear-gradient(top right, rgba(205,220,215,1), rgba(205,220,215,0) 40%);
+}
+/*-------------*/
+/* shadows */
+.drop-shadow{
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.25), 0px 3px 0px -1px rgba(0,0,0,0.1);
+	-webkit-box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.25);
+}
+/*-------------*/
+/* Top Right */
+.top-right{
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 1;
+}
+.top-right .time, .top-right .date {
+		color: rgb(255,255,255);
+		font-family: "Helvetica Neue Ultra Light";
+		font-size: 30px;
+		line-height: 100%;
+		opacity: 0;
+		margin-right: -40px;
+}
+.top-right .time{
+	font-size: 100px;
+	padding: 20px 20px 0 0;
+	margin-bottom: -15px;
+	opacity: 0;
+	margin-right: -40px;
+	transition: all .8s ease;   
+	-webkit-transition: all .8s ease;
+	-moz-transition: all .8s ease;
+	-o-transition: all .8s ease;
+	-ms-transition: all .8s ease;
+}
+.top-right .date{
+	text-align: right;
+	padding: 0 20px 0 0;
+	transition: all .8s ease .3s;
+	-webkit-transition: all .8s ease .3s;
+	-moz-transition: all .8s ease .3s;
+	-o-transition: all .8s ease .3s;
+	-ms-transition: all .8s ease .3s;
+}
+.ready .top-right .date, .ready .top-right .time{
+	opacity: 1;
+	margin-right: 0;
+}
