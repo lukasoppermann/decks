@@ -18,6 +18,9 @@
 	-moz-transition-easing: ease;
 	-moz-transition-property: opacity, margin;
 	-moz-transition-duration: .2s, .4s;
+	-webkit-transition-easing: ease;
+	-webkit-transition-property: opacity, margin;
+	-webkit-transition-duration: .2s, .4s;
 }
 #os_menu.active{
 	opacity: 1;
