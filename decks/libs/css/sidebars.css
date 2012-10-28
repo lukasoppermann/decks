@@ -1,0 +1,25 @@
+.sidebar{
+	background: rgb(255,255,255);
+	width: 300px;
+	height: 100%;
+	opacity: 0;
+	z-index: 100;
+}
+/*-------------*/
+/* OS Menu */
+#os_menu{
+	position: absolute;
+	margin-right: -310px;
+	top: 0;
+	right: 0;
+	transition-easing: ease;
+	transition-property: opacity, margin;
+	transition-duration: .2s, .4s;
+	-moz-transition-easing: ease;
+	-moz-transition-property: opacity, margin;
+	-moz-transition-duration: .2s, .4s;
+}
+#os_menu.active{
+	opacity: 1;
+	margin-right: 0;
+}
