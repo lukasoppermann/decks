@@ -10,6 +10,7 @@ $(function(){
 	// add to gCache
 	gCache.window = $(window);
 	gCache.body = $('body');
+	gCache.osMenu = $('#os_menu');
 	//
 	gCache.body.bind("touchmove", function(e) {
 		if(e.target.nodeName === "BODY"){
@@ -31,5 +32,12 @@ $(function(){
 	});
 	// drag start
 	$('[draggable=true]').draggable();
-	
+	// open sidebars
+	gCache.body.find('.background').on('click', function(e)
+	{
+		if(gCache.body.width()-51 < e.pageX)
+		{
+			gCache.osMenu.addClass('active');
+		}
+	});
 });
