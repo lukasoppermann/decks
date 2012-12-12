@@ -14,6 +14,7 @@
 	<link rel="stylesheet" type="text/css" href="./libs/css/writer.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="./libs/css/sidebars.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="./libs/css/keyboard.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="./libs/css/radial_menu.css" media="screen" />
 	<title>Decks</title>
 </head>
 <body>
@@ -43,6 +44,23 @@
 			<br />
 		</div>
 	</div>
+	<!-- Radial Menu -->
+	<div id="examples">
+	  <a href="#menu2">Menu with 3 items</a><br /><br />
+	  <a href="#menu1">Menu with 6 items</a><br /><br />
+	  <a href="#menu3">Menu with text items</a>
+	</div>
+	<ul class="radial" id="menu1">
+	  <li>
+	    <span>Coda</span>
+	  </li>
+	  <li>
+	    <span>Desktastic</span>
+	  </li>
+	  <li>
+	    <span>Candybar</span>
+	  </li>
+	</ul>
 	<!-- OS Menu -->
 	<div class="sidebar shadow-left" id="os_menu">
 		<div class="sidebar-filter-search input" contenteditable="true" data-palceholder="search">
@@ -90,5 +108,6 @@
 	<script src="./libs/js/hammer.js"></script>
 	<script src="./libs/js/jquery.specialevent.hammer.js"></script>	
 	<script src="./libs/js/base.js"></script>
+	<script src="./libs/js/radial_menu.js"></script>
 </body>
 </html>
